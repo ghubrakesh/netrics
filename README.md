@@ -21,7 +21,7 @@ It looks something like this:
 
 ## Download Here:
 
-[Download Me](./application/SpeedifySetup.exe){:download="SpeedifySetup.exe"}
+[Download Me](https://raw.githubusercontent.com/ghubrakesh/Speedify/main/application/SpeedifySetup.exe)
 
 ## Screenshots:
 
