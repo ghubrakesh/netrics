@@ -21,7 +21,7 @@ It looks something like this:
 
 ## Download Here:
 
-[Download Me](linkhere)
+[Download Me](/application/SpeedifySetup.exe)
 
 ## Screenshots:
 
