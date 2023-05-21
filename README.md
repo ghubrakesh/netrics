@@ -1,4 +1,4 @@
-# Speedify
+# netrics
 A Netword Speed Meter Application Currently Available For Windows, Which Displays the Download and Upload Traffic.
 
 was bored, so built this one :)
@@ -21,7 +21,7 @@ It looks something like this:
 
 ## Download Here:
 
-[Download Me](https://raw.githubusercontent.com/ghubrakesh/Speedify/main/application/SpeedifySetup.exe)
+[Download Me](https://raw.githubusercontent.com/ghubrakesh/Speedify/main/application/NetricsSetup.exe)
 
 ## Screenshots:
 
