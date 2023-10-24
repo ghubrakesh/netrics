@@ -1,8 +1,6 @@
 # netrics
 A Netword Speed Meter Application Currently Available For Windows, Which Displays the Download and Upload Traffic.
 
-was bored, so built this one :)
-
 First of all, there are very few options available in this category, and I was fed up of those buggy, 'mass addvertising' apps. So here I came up with another one.
 
 It looks something like this:
